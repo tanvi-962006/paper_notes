@@ -81,5 +81,3 @@ The app has a dark theme with a split layout:
 - **Right side** — Notes displayed as realistic paper notepad cards with spiral binding
 
 ---
-
-Made with ❤️ while learning React
