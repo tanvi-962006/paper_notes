@@ -1,4 +1,4 @@
-# 📝 PaperTrail — Your Quick Note-Taking Buddy
+# 📝 PaperTrail — Your Quick Note
 
 A clean and beautiful note-taking app built with React. Jot down your thoughts, ideas, and to-dos on realistic-looking notepad cards — and delete them when you're done!
 
